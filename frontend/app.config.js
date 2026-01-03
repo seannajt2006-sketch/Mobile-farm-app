@@ -25,7 +25,7 @@ export default {
     },
     extra: {
       apiBaseUrl:
-        process.env.EXPO_PUBLIC_API_BASE_URL || "http://localhost:8000/api/v1",
+        process.env.EXPO_PUBLIC_API_BASE_URL || "https://mobile-farm-app.onrender.com/api/v1",
     },
   },
 };
