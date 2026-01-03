@@ -2,6 +2,7 @@ export default {
   expo: {
     name: "FarmConnect",
     slug: "farmconnect",
+    owner: "zibot",
     version: "0.1.0",
     orientation: "portrait",
     icon: "./assets/icon.png",
