@@ -22,3 +22,5 @@ Actively developed; follow docs and prototypes under Prototype/ for UI reference
 
 
 CODED BY : EYONG SEANNA TABE
+Course: Introduction to mobile application
+App: farm connect 
