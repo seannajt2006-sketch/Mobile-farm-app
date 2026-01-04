@@ -18,3 +18,7 @@ Mobile app connecting farmers and buyers with buyer/seller/admin flows.
 
 ## Status
 Actively developed; follow docs and prototypes under Prototype/ for UI references.
+
+
+
+CODED BY : EYONG SEANNA TABE
